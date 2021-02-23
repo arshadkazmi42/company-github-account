@@ -18,6 +18,7 @@ List of company own github accounts / organizations
   - [Google Code Labs](https://github.cocomm/googlecodelabs) (https://github.cocomm/googlecodelabs)
   - [Play game services](https://github.com/playgameservices) (https://github.com/playgameservices)
   - [Google Cast](https://github.com/googlecast/) (https://github.com/googlecast/)
+  - [Youtube](https://github.com/youtube) (https://github.com/youtube)
 
 ## Mozilla
   - [Mozilla](https://github.com/mozilla) (https://github.com/mozilla)
