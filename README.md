@@ -1,9 +1,6 @@
 # comapny-github-account
 List of company own github accounts / organizations
 
-## [Google](#google)
-## [Mozilla](#mozilla)
-
 ## Google
   - [Google](https://github.com/google) (https://github.com/google)
   - [Actions on google](https://github.com/actions-on-google) (https://github.com/actions-on-google)
@@ -28,4 +25,13 @@ List of company own github accounts / organizations
   - [Mozilla Security](https://github.com/MozillaSecurity) (https://github.com/MozillaSecurity)
   - [Mozilla Reality](https://github.com/MozillaReality) (https://github.com/MozillaReality)
 
-  
+## Intel
+  - [Intel](https://github.com/intel) (https://github.com/intel)
+  - [intel-iot-devkit](https://github.com/intel-iot-devkit) (https://github.com/intel-iot-devkit)
+  - [IntelSoftware](https://github.com/IntelSoftware) (https://github.com/IntelSoftware)
+  - [intel-secl](https://github.com/intel-secl) (https://github.com/intel-secl)
+  - [IntelLabs](https://github.com/IntelLabs) (https://github.com/IntelLabs)
+  - [IntelAI](https://github.com/IntelAI) (https://github.com/IntelAI)
+  - [IntelPython](https://github.com/IntelPython) (https://github.com/IntelPython)
+  - [Intel-Media-SDK](https://github.com/Intel-Media-SDK) (https://github.com/Intel-Media-SDK)
+  - [Intel-bigdata](https://github.com/Intel-bigdata) (https://github.com/Intel-bigdata)
